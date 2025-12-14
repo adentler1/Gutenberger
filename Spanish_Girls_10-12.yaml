@@ -1,0 +1,63 @@
+category: Spanish_Girls_10-12
+description: Literatura española para niñas de 10-12 años - Cuentos y poesía
+books:
+- title: Las Fábulas de Esopo, Vol. 01
+  author: Esopo
+  filename: Fabulas_Esopo_1.epub
+  url: ''
+  gutenberg_id: 0
+  note: Fábulas clásicas con moralejas
+- title: Las Fábulas de Esopo, Vol. 02
+  author: Esopo
+  filename: Fabulas_Esopo_2.epub
+  url: ''
+  gutenberg_id: 0
+  note: Más fábulas de Esopo
+- title: Rimas y Leyendas
+  author: Gustavo Adolfo Bécquer
+  filename: Rimas_Leyendas_Becquer.epub
+  url: ''
+  gutenberg_id: 0
+  note: Poesía romántica y leyendas misteriosas
+- title: Legends, Tales and Poems
+  author: Gustavo Adolfo Bécquer
+  filename: Legends_Tales_Becquer.epub
+  url: https://www.gutenberg.org/ebooks/10814.epub3.images
+  gutenberg_id: 10814
+  note: Versión bilingüe de las leyendas
+- title: El Conde Lucanor
+  author: Don Juan Manuel
+  filename: Conde_Lucanor.epub
+  url: https://www.gutenberg.org/ebooks/65738.epub3.images
+  gutenberg_id: 65738
+  note: Cuentos con enseñanzas morales
+- title: Poesías
+  author: Gertrudis Gómez de Avellaneda
+  filename: Poesias_Avellaneda.epub
+  url: ''
+  gutenberg_id: 0
+  note: Poetisa cubana del siglo XIX
+- title: Alicia en el país de las maravillas
+  author: Lewis Carroll
+  filename: Alicia_Maravillas_Carroll.epub
+  url: ''
+  gutenberg_id: 0
+  note: Alice in Wonderland en español
+- title: Marianela
+  author: Benito Pérez Galdós
+  filename: Marianela_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/17340.epub3.images
+  gutenberg_id: 17340
+  note: Historia de amor y transformación
+- title: Doña Perfecta
+  author: Benito Pérez Galdós
+  filename: Dona_Perfecta_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/15725.epub3.images
+  gutenberg_id: 15725
+  note: Drama social español
+- title: Romancero
+  author: Varios
+  filename: Romancero.epub
+  url: ''
+  gutenberg_id: 0
+  note: Romances tradicionales españoles

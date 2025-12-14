@@ -1,0 +1,93 @@
+category: Spanish_Boys_16-18
+description: Literatura española para jóvenes de 16-18 años - Clásicos y filosofía
+books:
+- title: Don Quijote de la Mancha
+  author: Miguel de Cervantes
+  filename: Don_Quijote_Cervantes.epub
+  url: https://www.gutenberg.org/ebooks/2000.epub3.images
+  gutenberg_id: 2000
+  note: Obra maestra de la literatura universal
+- title: Novelas Ejemplares
+  author: Miguel de Cervantes
+  filename: Novelas_Ejemplares_Cervantes.epub
+  url: https://www.gutenberg.org/ebooks/61202.epub3.images
+  gutenberg_id: 61202
+  note: Doce novelas cortas magistrales
+- title: La vida es sueño
+  author: Pedro Calderón de la Barca
+  filename: Vida_Sueno_Calderon.epub
+  url: ''
+  gutenberg_id: 0
+  note: Drama filosófico sobre libre albedrío
+- title: El gran teatro del mundo
+  author: Pedro Calderón de la Barca
+  filename: Gran_Teatro_Mundo_Calderon.epub
+  url: ''
+  gutenberg_id: 0
+  note: Auto sacramental alegórico
+- title: El Buscón
+  author: Francisco de Quevedo
+  filename: Buscon_Quevedo.epub
+  url: ''
+  gutenberg_id: 0
+  note: Sátira picaresca
+- title: Poesía
+  author: Francisco de Quevedo
+  filename: Poesia_Quevedo.epub
+  url: ''
+  gutenberg_id: 0
+  note: Poesía barroca española
+- title: Fuenteovejuna
+  author: Lope de Vega
+  filename: Fuenteovejuna_Lope.epub
+  url: ''
+  gutenberg_id: 0
+  note: Honor colectivo contra tiranía
+- title: El caballero de Olmedo
+  author: Lope de Vega
+  filename: Caballero_Olmedo_Lope.epub
+  url: ''
+  gutenberg_id: 0
+  note: Tragedia de amor y destino
+- title: Vida de Don Quijote y Sancho
+  author: Miguel de Unamuno
+  filename: Vida_Quijote_Sancho_Unamuno.epub
+  url: https://www.gutenberg.org/ebooks/75472.epub3.images
+  gutenberg_id: 75472
+  note: Reflexión filosófica sobre Cervantes
+- title: Niebla
+  author: Miguel de Unamuno
+  filename: Niebla_Unamuno.epub
+  url: https://www.gutenberg.org/ebooks/49363.epub3.images
+  gutenberg_id: 49363
+  note: Nivola existencialista
+- title: Meditaciones del Quijote
+  author: José Ortega y Gasset
+  filename: Meditaciones_Quijote_Ortega.epub
+  url: https://www.gutenberg.org/ebooks/57448.epub3.images
+  gutenberg_id: 57448
+  note: Filosofía sobre España y la vida
+- title: La Regenta
+  author: Leopoldo Alas (Clarín)
+  filename: Regenta_Clarin.epub
+  url: https://www.gutenberg.org/ebooks/17073.epub3.images
+  gutenberg_id: 17073
+  note: Gran novela del realismo español
+- title: Pepita Jiménez
+  author: Juan Valera
+  filename: Pepita_Jimenez_Valera.epub
+  url: ''
+  gutenberg_id: 0
+  note: Conflicto entre vocación y amor
+- title: Facundo
+  author: Domingo Faustino Sarmiento
+  filename: Facundo_Sarmiento.epub
+  url: https://www.gutenberg.org/ebooks/33267.epub3.images
+  gutenberg_id: 33267
+  note: Civilización y barbarie en Argentina
+- title: Martín Fierro
+  author: José Hernández
+  filename: Martin_Fierro_Hernandez.epub
+  url: https://www.gutenberg.org/ebooks/14765.epub3.images
+  gutenberg_id: 14765
+  note: Épica gauchesca

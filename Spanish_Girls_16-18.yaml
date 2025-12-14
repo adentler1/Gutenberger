@@ -1,0 +1,105 @@
+category: Spanish_Girls_16-18
+description: Literatura española para jóvenes de 16-18 años - Voces femeninas y clásicos
+books:
+- title: Los pazos de Ulloa
+  author: Emilia Pardo Bazán
+  filename: Pazos_Ulloa_Pardo_Bazan.epub
+  url: https://www.gutenberg.org/ebooks/58059.epub3.images
+  gutenberg_id: 58059
+  note: Naturalismo español, autora feminista pionera
+- title: La madre naturaleza
+  author: Emilia Pardo Bazán
+  filename: Madre_Naturaleza_Pardo_Bazan.epub
+  url: https://www.gutenberg.org/ebooks/58059.epub3.images
+  gutenberg_id: 58059
+  note: Continuación con temas de naturaleza y sociedad
+- title: Insolación
+  author: Emilia Pardo Bazán
+  filename: Insolacion_Pardo_Bazan.epub
+  url: ''
+  gutenberg_id: 0
+  note: Novela sobre pasión y libertad femenina
+- title: Sab
+  author: Gertrudis Gómez de Avellaneda
+  filename: Sab_Avellaneda.epub
+  url: https://www.gutenberg.org/ebooks/75126.epub3.images
+  gutenberg_id: 75126
+  note: Primera novela antiesclavista en español
+- title: Poesías
+  author: Gertrudis Gómez de Avellaneda
+  filename: Poesias_Avellaneda.epub
+  url: ''
+  gutenberg_id: 0
+  note: Poesía romántica de voz femenina
+- title: Fortunata y Jacinta
+  author: Benito Pérez Galdós
+  filename: Fortunata_Jacinta_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/17013.epub3.images
+  gutenberg_id: 17013
+  note: Dos mujeres, dos mundos en Madrid
+- title: Tristana
+  author: Benito Pérez Galdós
+  filename: Tristana_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/66979.epub3.images
+  gutenberg_id: 66979
+  note: Búsqueda de independencia femenina
+- title: Marianela
+  author: Benito Pérez Galdós
+  filename: Marianela_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/17340.epub3.images
+  gutenberg_id: 17340
+  note: Belleza interior y tragedia
+- title: Doña Perfecta
+  author: Benito Pérez Galdós
+  filename: Dona_Perfecta_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/15725.epub3.images
+  gutenberg_id: 15725
+  note: Fanatismo versus modernidad
+- title: La Regenta
+  author: Leopoldo Alas (Clarín)
+  filename: Regenta_Clarin.epub
+  url: https://www.gutenberg.org/ebooks/17073.epub3.images
+  gutenberg_id: 17073
+  note: Ana Ozores, protagonista compleja
+- title: Rimas y Leyendas
+  author: Gustavo Adolfo Bécquer
+  filename: Rimas_Leyendas_Becquer.epub
+  url: ''
+  gutenberg_id: 0
+  note: Poesía romántica sublime
+- title: La dama boba
+  author: Lope de Vega
+  filename: Dama_Boba_Lope.epub
+  url: ''
+  gutenberg_id: 0
+  note: Mujer que elige ser 'tonta'
+- title: Don Juan Tenorio
+  author: José Zorrilla
+  filename: Don_Juan_Tenorio_Zorrilla.epub
+  url: https://www.gutenberg.org/ebooks/5201.epub3.images
+  gutenberg_id: 5201
+  note: El poder redentor del amor de Doña Inés
+- title: Don Quijote de la Mancha
+  author: Miguel de Cervantes
+  filename: Don_Quijote_Cervantes.epub
+  url: https://www.gutenberg.org/ebooks/2000.epub3.images
+  gutenberg_id: 2000
+  note: Obra maestra universal
+- title: La Gitanilla
+  author: Miguel de Cervantes
+  filename: Novelas_Ejemplares_Cervantes.epub
+  url: ''
+  gutenberg_id: 0
+  note: Preciosa, heroína independiente
+- title: María
+  author: Jorge Isaacs
+  filename: Maria_Isaacs.epub
+  url: ''
+  gutenberg_id: 0
+  note: Gran novela romántica colombiana
+- title: Anna Karenina
+  author: León Tolstói
+  filename: Anna_Karenina_Tolstoi_ES.epub
+  url: ''
+  gutenberg_id: 0
+  note: Clásico ruso en español

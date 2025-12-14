@@ -1,0 +1,81 @@
+category: Spanish_Boys_13-15
+description: Literatura española para jóvenes de 13-15 años - Aventura y clásicos
+books:
+- title: Don Quijote de la Mancha
+  author: Miguel de Cervantes
+  filename: Don_Quijote_Cervantes.epub
+  url: https://www.gutenberg.org/ebooks/2000.epub3.images
+  gutenberg_id: 2000
+  note: La novela más importante de la literatura española
+- title: Novelas Ejemplares
+  author: Miguel de Cervantes
+  filename: Novelas_Ejemplares_Cervantes.epub
+  url: https://www.gutenberg.org/ebooks/61202.epub3.images
+  gutenberg_id: 61202
+  note: Colección de novelas cortas
+- title: Lazarillo de Tormes
+  author: Anónimo
+  filename: Lazarillo_Tormes.epub
+  url: ''
+  gutenberg_id: 0
+  note: Primera novela picaresca
+- title: El Buscón
+  author: Francisco de Quevedo
+  filename: Buscon_Quevedo.epub
+  url: ''
+  gutenberg_id: 0
+  note: Sátira picaresca brillante
+- title: La vida es sueño
+  author: Pedro Calderón de la Barca
+  filename: Vida_Sueno_Calderon.epub
+  url: ''
+  gutenberg_id: 0
+  note: Drama filosófico clásico
+- title: El alcalde de Zalamea
+  author: Pedro Calderón de la Barca
+  filename: Alcalde_Zalamea_Calderon.epub
+  url: ''
+  gutenberg_id: 0
+  note: Honor y justicia
+- title: Fuenteovejuna
+  author: Lope de Vega
+  filename: Fuenteovejuna_Lope.epub
+  url: ''
+  gutenberg_id: 0
+  note: Rebelión contra la tiranía
+- title: El perro del hortelano
+  author: Lope de Vega
+  filename: Perro_Hortelano_Lope.epub
+  url: ''
+  gutenberg_id: 0
+  note: Comedia de celos
+- title: Don Juan Tenorio
+  author: José Zorrilla
+  filename: Don_Juan_Tenorio_Zorrilla.epub
+  url: https://www.gutenberg.org/ebooks/5201.epub3.images
+  gutenberg_id: 5201
+  note: El seductor más famoso
+- title: Rimas y Leyendas
+  author: Gustavo Adolfo Bécquer
+  filename: Rimas_Leyendas_Becquer.epub
+  url: ''
+  gutenberg_id: 0
+  note: Poesía romántica y leyendas
+- title: Trafalgar
+  author: Benito Pérez Galdós
+  filename: Trafalgar_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/16961.epub3.images
+  gutenberg_id: 16961
+  note: Episodio Nacional sobre la batalla
+- title: El 19 de marzo y el 2 de mayo
+  author: Benito Pérez Galdós
+  filename: 19_Marzo_2_Mayo_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/67189.epub3.images
+  gutenberg_id: 67189
+  note: Episodio de la Guerra de Independencia
+- title: Martín Fierro
+  author: José Hernández
+  filename: Martin_Fierro_Hernandez.epub
+  url: https://www.gutenberg.org/ebooks/14765.epub3.images
+  gutenberg_id: 14765
+  note: Poema gauchesco argentino

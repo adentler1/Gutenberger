@@ -1,0 +1,87 @@
+category: Spanish_Girls_13-15
+description: Literatura española para jóvenes de 13-15 años - Poesía y protagonistas femeninas
+books:
+- title: Rimas y Leyendas
+  author: Gustavo Adolfo Bécquer
+  filename: Rimas_Leyendas_Becquer.epub
+  url: ''
+  gutenberg_id: 0
+  note: Poesía romántica y leyendas misteriosas
+- title: Legends, Tales and Poems
+  author: Gustavo Adolfo Bécquer
+  filename: Legends_Tales_Becquer.epub
+  url: https://www.gutenberg.org/ebooks/10814.epub3.images
+  gutenberg_id: 10814
+  note: Versión bilingüe
+- title: Poesías
+  author: Gertrudis Gómez de Avellaneda
+  filename: Poesias_Avellaneda.epub
+  url: ''
+  gutenberg_id: 0
+  note: Gran poetisa cubana del romanticismo
+- title: Sab
+  author: Gertrudis Gómez de Avellaneda
+  filename: Sab_Avellaneda.epub
+  url: https://www.gutenberg.org/ebooks/75126.epub3.images
+  gutenberg_id: 75126
+  note: Novela antiesclavista con protagonista fuerte
+- title: Los pazos de Ulloa
+  author: Emilia Pardo Bazán
+  filename: Pazos_Ulloa_Pardo_Bazan.epub
+  url: https://www.gutenberg.org/ebooks/58059.epub3.images
+  gutenberg_id: 58059
+  note: Naturalismo español por autora pionera
+- title: La madre naturaleza
+  author: Emilia Pardo Bazán
+  filename: Madre_Naturaleza_Pardo_Bazan.epub
+  url: https://www.gutenberg.org/ebooks/58059.epub3.images
+  gutenberg_id: 58059
+  note: Continuación de Los pazos de Ulloa
+- title: Marianela
+  author: Benito Pérez Galdós
+  filename: Marianela_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/17340.epub3.images
+  gutenberg_id: 17340
+  note: Tragedia de una joven sensible
+- title: Doña Perfecta
+  author: Benito Pérez Galdós
+  filename: Dona_Perfecta_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/15725.epub3.images
+  gutenberg_id: 15725
+  note: Conflicto entre tradición y progreso
+- title: Fortunata y Jacinta
+  author: Benito Pérez Galdós
+  filename: Fortunata_Jacinta_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/17013.epub3.images
+  gutenberg_id: 17013
+  note: Dos mujeres en el Madrid del XIX
+- title: Tristana
+  author: Benito Pérez Galdós
+  filename: Tristana_Galdos.epub
+  url: https://www.gutenberg.org/ebooks/66979.epub3.images
+  gutenberg_id: 66979
+  note: Mujer que busca independencia
+- title: La dama boba
+  author: Lope de Vega
+  filename: Dama_Boba_Lope.epub
+  url: ''
+  gutenberg_id: 0
+  note: Comedia con protagonista femenina ingeniosa
+- title: Don Juan Tenorio
+  author: José Zorrilla
+  filename: Don_Juan_Tenorio_Zorrilla.epub
+  url: https://www.gutenberg.org/ebooks/5201.epub3.images
+  gutenberg_id: 5201
+  note: Amor y redención
+- title: La Gitanilla
+  author: Miguel de Cervantes
+  filename: Gitanilla_Cervantes.epub
+  url: ''
+  gutenberg_id: 0
+  note: Novela ejemplar con protagonista gitana (en Novelas Ejemplares)
+- title: María
+  author: Jorge Isaacs
+  filename: Maria_Isaacs.epub
+  url: ''
+  gutenberg_id: 0
+  note: Novela romántica colombiana

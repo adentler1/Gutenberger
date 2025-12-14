@@ -1,0 +1,69 @@
+category: Spanish_Boys_10-12
+description: Literatura española para niños de 10-12 años - Aventura y cuentos
+books:
+- title: Las Fábulas de Esopo, Vol. 01
+  author: Esopo
+  filename: Fabulas_Esopo_1.epub
+  url: ''
+  gutenberg_id: 0
+  note: Fábulas clásicas con moralejas
+- title: Las Fábulas de Esopo, Vol. 02
+  author: Esopo
+  filename: Fabulas_Esopo_2.epub
+  url: ''
+  gutenberg_id: 0
+  note: Más fábulas de Esopo
+- title: Las Fábulas de Esopo, Vol. 03
+  author: Esopo
+  filename: Fabulas_Esopo_3.epub
+  url: ''
+  gutenberg_id: 0
+  note: Tercera colección
+- title: La isla del tesoro
+  author: Robert Louis Stevenson
+  filename: Isla_Tesoro_Stevenson.epub
+  url: https://www.gutenberg.org/ebooks/45438.epub3.images
+  gutenberg_id: 45438
+  note: Piratas y tesoros - traducción al español
+- title: El libro de las tierras vírgenes
+  author: Rudyard Kipling
+  filename: Libro_Tierras_Virgenes_Kipling.epub
+  url: https://www.gutenberg.org/ebooks/69552.epub3.images
+  gutenberg_id: 69552
+  note: El Libro de la Selva en español
+- title: Lazarillo de Tormes
+  author: Anónimo
+  filename: Lazarillo_Tormes.epub
+  url: ''
+  gutenberg_id: 0
+  note: Primera novela picaresca española
+- title: El Conde Lucanor
+  author: Don Juan Manuel
+  filename: Conde_Lucanor.epub
+  url: ''
+  gutenberg_id: 0
+  note: Cuentos medievales con enseñanzas
+- title: Romancero
+  author: Varios
+  filename: Romancero.epub
+  url: ''
+  gutenberg_id: 0
+  note: Romances tradicionales españoles
+- title: La vuelta al mundo en ochenta días
+  author: Julio Verne
+  filename: Vuelta_Mundo_80_Dias.epub
+  url: ''
+  gutenberg_id: 0
+  note: Aventura alrededor del mundo
+- title: Veinte mil leguas de viaje submarino
+  author: Julio Verne
+  filename: 20000_Leguas_Verne.epub
+  url: https://www.gutenberg.org/ebooks/50152.epub3.images
+  gutenberg_id: 50152
+  note: Aventura submarina con el Capitán Nemo
+- title: El paraíso perdido
+  author: John Milton
+  filename: Paraiso_Perdido_Milton.epub
+  url: https://www.gutenberg.org/ebooks/67092.epub3.images
+  gutenberg_id: 67092
+  note: Épica clásica traducida
