@@ -1,0 +1,63 @@
+category: 17-19 Jahre
+description: Deutsche Literatur für Schüler im Alter von 17-19 Jahren
+books:
+- title: Buddenbrooks
+  author: Thomas Mann
+  filename: Buddenbrooks_Mann.epub
+  url: https://www.gutenberg.org/ebooks/34811.epub3.images
+  gutenberg_id: 34811
+- title: Die Aufzeichnungen des Malte Laurids Brigge
+  author: Rainer Maria Rilke
+  filename: Aufzeichnungen_Malte_Rilke.epub
+  url: https://www.gutenberg.org/ebooks/2188.epub3.images
+  gutenberg_id: 2188
+- title: Der Untertan
+  author: Heinrich Mann
+  filename: Der_Untertan_Heinrich_Mann.epub
+  url: https://www.gutenberg.org/ebooks/38126.epub3.images
+  gutenberg_id: 38126
+- title: Der Steppenwolf
+  author: Hermann Hesse
+  filename: Der_Steppenwolf_Hesse.epub
+  url: https://www.gutenberg.org/ebooks/75802.epub3.images
+  gutenberg_id: 75802
+- title: Gladius Dei; Schwere Stunde
+  author: Thomas Mann
+  filename: Gladius_Dei_Mann.epub
+  url: https://www.gutenberg.org/ebooks/12053.epub3.images
+  gutenberg_id: 12053
+- title: Peter Camenzind
+  author: Hermann Hesse
+  filename: Peter_Camenzind_Hesse.epub
+  url: https://www.gutenberg.org/ebooks/41051.epub3.images
+  gutenberg_id: 41051
+- title: Königliche Hoheit
+  author: Thomas Mann
+  filename: Koenigliche_Hoheit_Mann.epub
+  url: https://www.gutenberg.org/ebooks/35328.epub3.images
+  gutenberg_id: 35328
+- title: Jenseits von Gut und Böse
+  author: Friedrich Nietzsche
+  filename: Jenseits_von_Gut_und_Boese_Nietzsche.epub
+  url: https://www.gutenberg.org/ebooks/7204.epub3.images
+  gutenberg_id: 7204
+- title: 'Drei Meister: Balzac, Dickens, Dostojewski'
+  author: Stefan Zweig
+  filename: Drei_Meister_Zweig.epub
+  url: https://www.gutenberg.org/ebooks/36389.epub3.images
+  gutenberg_id: 36389
+- title: 'Der kleine Herr Friedemann: Novellen'
+  author: Thomas Mann
+  filename: Der_kleine_Herr_Friedemann_Mann.epub
+  url: https://www.gutenberg.org/ebooks/36766.epub3.images
+  gutenberg_id: 36766
+- title: Roßhalde
+  author: Hermann Hesse
+  filename: Rosshalde_Hesse.epub
+  url: ''
+  gutenberg_id: 0
+- title: 'Jeremias: Eine dramatische Dichtung'
+  author: Stefan Zweig
+  filename: Jeremias_Zweig.epub
+  url: https://www.gutenberg.org/ebooks/40564.epub3.images
+  gutenberg_id: 40564

@@ -1,0 +1,68 @@
+category: 20+ Jahre
+description: Deutsche Literatur für Erwachsene (20 Jahre und älter)
+books:
+- title: Der Zauberberg - Erster Band
+  author: Thomas Mann
+  filename: Der_Zauberberg_1_Mann.epub
+  url: ''
+  gutenberg_id: 0
+- title: Der Zauberberg - Zweiter Band
+  author: Thomas Mann
+  filename: Der_Zauberberg_2_Mann.epub
+  url: https://www.gutenberg.org/ebooks/65662.epub3.images
+  gutenberg_id: 65662
+- title: Der Prozeß
+  author: Franz Kafka
+  filename: Der_Prozess_Kafka.epub
+  url: ''
+  gutenberg_id: 0
+- title: Also sprach Zarathustra
+  author: Friedrich Nietzsche
+  filename: Also_sprach_Zarathustra_Nietzsche.epub
+  url: https://www.gutenberg.org/ebooks/7205.epub3.images
+  gutenberg_id: 7205
+- title: Der Wille zur Macht
+  author: Friedrich Nietzsche
+  filename: Der_Wille_zur_Macht_Nietzsche.epub
+  url: ''
+  gutenberg_id: 0
+- title: Die Traumdeutung
+  author: Sigmund Freud
+  filename: Die_Traumdeutung_Freud.epub
+  url: https://www.gutenberg.org/ebooks/40739.epub3.images
+  gutenberg_id: 40739
+- title: Stopfkuchen
+  author: Wilhelm Raabe
+  filename: Stopfkuchen_Raabe.epub
+  url: ''
+  gutenberg_id: 0
+- title: Lebensansichten des Katers Murr
+  author: E.T.A. Hoffmann
+  filename: Lebensansichten_Kater_Murr_Hoffmann.epub
+  url: https://www.gutenberg.org/ebooks/38780.epub3.images
+  gutenberg_id: 38780
+- title: Der Goldene Topf
+  author: E.T.A. Hoffmann
+  filename: Der_Goldene_Topf_Hoffmann.epub
+  url: https://www.gutenberg.org/ebooks/17362.epub3.images
+  gutenberg_id: 17362
+- title: 'Faust: Der Tragödie erster Teil'
+  author: Johann Wolfgang von Goethe
+  filename: Faust_1_Goethe.epub
+  url: https://www.gutenberg.org/ebooks/2229.epub3.images
+  gutenberg_id: 2229
+- title: 'Faust: Der Tragödie zweiter Teil'
+  author: Johann Wolfgang von Goethe
+  filename: Faust_2_Goethe.epub
+  url: https://www.gutenberg.org/ebooks/2229.epub3.images
+  gutenberg_id: 2229
+- title: Die Wahlverwandtschaften
+  author: Johann Wolfgang von Goethe
+  filename: Die_Wahlverwandtschaften_Goethe.epub
+  url: ''
+  gutenberg_id: 0
+- title: Der abenteuerliche Simplicissimus
+  author: Grimmelshausen
+  filename: Simplicissimus_Grimmelshausen.epub
+  url: ''
+  gutenberg_id: 0

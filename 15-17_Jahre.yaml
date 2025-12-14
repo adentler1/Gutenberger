@@ -1,0 +1,103 @@
+category: 15-17 Jahre
+description: Deutsche Literatur für Schüler im Alter von 15-17 Jahren
+books:
+- title: Die Verwandlung
+  author: Franz Kafka
+  filename: Die_Verwandlung_Kafka.epub
+  url: https://www.gutenberg.org/ebooks/22367.epub3.images
+  gutenberg_id: 22367
+- title: Siddhartha
+  author: Hermann Hesse
+  filename: Siddhartha_Hesse.epub
+  url: https://www.gutenberg.org/ebooks/2499.epub3.images
+  gutenberg_id: 2499
+- title: Demian
+  author: Hermann Hesse
+  filename: Demian_Hesse.epub
+  url: https://www.gutenberg.org/ebooks/41907.epub3.images
+  gutenberg_id: 41907
+- title: Tonio Kröger
+  author: Thomas Mann
+  filename: Tonio_Kroeger_Mann.epub
+  url: https://www.gutenberg.org/ebooks/23313.epub3.images
+  gutenberg_id: 23313
+- title: Die Räuber
+  author: Friedrich Schiller
+  filename: Die_Raeuber_Schiller.epub
+  url: https://www.gutenberg.org/ebooks/47804.epub3.images
+  gutenberg_id: 47804
+- title: Sämtliche Werke (Woyzeck, Leonce und Lena, etc.)
+  author: Georg Büchner
+  filename: Saemtliche_Werke_Buechner.epub
+  url: ''
+  gutenberg_id: 0
+- title: Die Elixiere des Teufels
+  author: E.T.A. Hoffmann
+  filename: Die_Elixiere_des_Teufels_Hoffmann.epub
+  url: https://www.gutenberg.org/ebooks/76360.epub3.images
+  gutenberg_id: 76360
+- title: Briefe an einen jungen Dichter
+  author: Rainer Maria Rilke
+  filename: Briefe_an_einen_jungen_Dichter_Rilke.epub
+  url: ''
+  gutenberg_id: 0
+- title: Deutschland. Ein Wintermärchen
+  author: Heinrich Heine
+  filename: Deutschland_Ein_Wintermaerchen_Heine.epub
+  url: ''
+  gutenberg_id: 0
+- title: Atta Troll
+  author: Heinrich Heine
+  filename: Atta_Troll_Heine.epub
+  url: ''
+  gutenberg_id: 0
+- title: Irrungen, Wirrungen
+  author: Theodor Fontane
+  filename: Irrungen_Wirrungen_Fontane.epub
+  url: ''
+  gutenberg_id: 0
+- title: Brennendes Geheimnis
+  author: Stefan Zweig
+  filename: Brennendes_Geheimnis_Zweig.epub
+  url: https://www.gutenberg.org/ebooks/24173.epub3.images
+  gutenberg_id: 24173
+- title: 'Amok: Novellen einer Leidenschaft'
+  author: Stefan Zweig
+  filename: Amok_Zweig.epub
+  url: ''
+  gutenberg_id: 0
+- title: Pole Poppenspäler
+  author: Theodor Storm
+  filename: Pole_Poppenspaeler_Storm.epub
+  url: https://www.gutenberg.org/ebooks/8919.epub3.images
+  gutenberg_id: 8919
+- title: Penthesilea
+  author: Heinrich von Kleist
+  filename: Penthesilea_Kleist.epub
+  url: https://www.gutenberg.org/ebooks/6648.epub3.images
+  gutenberg_id: 6648
+- title: Narziß und Goldmund
+  author: Hermann Hesse
+  filename: Narziss_und_Goldmund_Hesse.epub
+  url: ''
+  gutenberg_id: 0
+- title: Der Tod in Venedig
+  author: Thomas Mann
+  filename: Der_Tod_in_Venedig_Mann.epub
+  url: ''
+  gutenberg_id: 0
+- title: Tristan
+  author: Thomas Mann
+  filename: Tristan_Mann.epub
+  url: https://www.gutenberg.org/ebooks/13810.epub3.images
+  gutenberg_id: 13810
+- title: Gertrud
+  author: Hermann Hesse
+  filename: Gertrud_Hesse.epub
+  url: https://www.gutenberg.org/ebooks/61266.epub3.images
+  gutenberg_id: 61266
+- title: Klingsors letzter Sommer
+  author: Hermann Hesse
+  filename: Klingsor_Hesse.epub
+  url: ''
+  gutenberg_id: 0

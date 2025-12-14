@@ -1,0 +1,176 @@
+category: "Bedtime stories in German (ages 5–11)"
+books:
+  - title: "Kinder- und Hausmärchen 1 (1812)"
+    author: "Jacob Grimm; Wilhelm Grimm"
+    filename: "Kinder_und_Hausmaerchen_1_Grimm.epub"
+    url: ""
+    gutenberg_id: 0
+    note: "Classic German fairy tales. (No quality EPUB available - Gutenberg has audiobook only, IA has poor OCR)"
+
+  - title: "Kinder- und Hausmärchen 2 (1815)"
+    author: "Jacob Grimm; Wilhelm Grimm"
+    filename: "Kinder_und_Hausmaerchen_2_Grimm.epub"
+    url: ""
+    gutenberg_id: 0
+    note: "More Grimm tales. (No quality EPUB available - Gutenberg has audiobook only, IA has poor OCR)"
+
+  - title: "Märchen für Kinder"
+    author: "H. C. Andersen"
+    filename: "Maerchen_fuer_Kinder_Andersen.epub"
+    url: https://www.gutenberg.org/ebooks/19163.epub3.images
+    gutenberg_id: 19163
+    note: "Andersen fairy tales in German; gentle, imaginative stories."
+
+  - title: "Märchen-Almanach auf das Jahr 1826"
+    author: "Wilhelm Hauff"
+    filename: "Maerchen_Almanach_1826_Hauff.epub"
+    url: https://www.gutenberg.org/ebooks/6638.epub3.images
+    gutenberg_id: 6638
+    note: "Hauff's fairy-tale frame stories; vivid and atmospheric."
+
+  - title: "Märchen-Almanach auf das Jahr 1827"
+    author: "Wilhelm Hauff"
+    filename: "Maerchen_Almanach_1827_Hauff.epub"
+    url: https://www.gutenberg.org/ebooks/6639.epub3.images
+    gutenberg_id: 6639
+    note: "Short tales with adventure and moral endings; good bedtime pacing."
+
+  - title: "Märchen-Almanach auf das Jahr 1828"
+    author: "Wilhelm Hauff"
+    filename: "Maerchen_Almanach_1828_Hauff.epub"
+    url: https://www.gutenberg.org/ebooks/6640.epub3.images
+    gutenberg_id: 6640
+    note: "More Hauff tales; strong storytelling for read-aloud."
+
+  - title: "Märchen-Sammlung"
+    author: "Ludwig Bechstein"
+    filename: "Maerchen_Sammlung_Bechstein.epub"
+    url: https://www.gutenberg.org/ebooks/23787.epub3.images
+    gutenberg_id: 23787
+    note: "A large set of German folk-style tales; many are bedtime-length."
+
+  - title: "Ludwig Bechsteins Märchenbuch"
+    author: "Ludwig Bechstein"
+    filename: "Maerchenbuch_Bechstein.epub"
+    url: https://www.gutenberg.org/ebooks/63465.epub3.images
+    gutenberg_id: 63465
+    note: "Bechstein's best-known fairy-tale collection; classic bedtime material."
+
+  - title: "Kasperle auf Burg Himmelhoch"
+    author: "Josephine Siebe"
+    filename: "Kasperle_auf_Burg_Himmelhoch_Siebe.epub"
+    url: https://www.gutenberg.org/ebooks/37202.epub3.images
+    gutenberg_id: 37202
+    note: "Light, playful children's story; good for ages 5–9."
+
+  - title: "Kasperle auf Reisen: Eine lustige Geschichte"
+    author: "Josephine Siebe"
+    filename: "Kasperle_auf_Reisen_Siebe.epub"
+    url: https://www.gutenberg.org/ebooks/36813.epub3.images
+    gutenberg_id: 36813
+    note: "Humorous episodes; easy to stop after a scene."
+
+  - title: "Der kleine Häwelmann"
+    author: "Theodor Storm"
+    filename: "Der_kleine_Haewelmann_Storm.epub"
+    url: ""
+    gutenberg_id: 0
+    note: "Dreamlike night-journey story; perfect bedtime vibe. (No EPUB available - audiobook only on Gutenberg)"
+
+  - title: "Das kleine Dummerle und andere Erzählungen zum Vorlesen im Familienkreise"
+    author: "Agnes Sapper"
+    filename: "Das_kleine_Dummerle_Sapper.epub"
+    url: https://www.gutenberg.org/ebooks/19733.epub3.images
+    gutenberg_id: 19733
+    note: "Read-aloud family stories; designed for evening reading."
+
+  - title: "Max und Moritz"
+    author: "Wilhelm Busch"
+    filename: "Max_und_Moritz_Busch.epub"
+    url: https://www.gutenberg.org/ebooks/21148.epub3.images
+    gutenberg_id: 21148
+    note: "Classic rhymed mischief stories; fun read-aloud (a bit cheeky)."
+
+  - title: "Gockel, Hinkel und Gackeleia"
+    author: "Clemens Brentano"
+    filename: "Gockel_Hinkel_und_Gackeleia_Brentano.epub"
+    url: https://www.gutenberg.org/ebooks/4501.epub3.images
+    gutenberg_id: 4501
+    note: "Whimsical fairy-tale-fable; charming for bedtime chapters."
+
+  - title: "Die Regentrude"
+    author: "Theodor Storm"
+    filename: "Die_Regentrude_Storm.epub"
+    url: https://www.gutenberg.org/ebooks/8923.epub3.images
+    gutenberg_id: 8923
+    note: "Fairy-tale novella about drought and renewal; great for ages 7–11."
+
+  - title: "Wo Gritlis Kinder hingekommen sind"
+    author: "Johanna Spyri"
+    filename: "Wo_Gritlis_Kinder_hingekommen_sind_Spyri.epub"
+    url: https://www.gutenberg.org/ebooks/22570.epub3.images
+    gutenberg_id: 22570
+    note: "Warm, values-driven children's stories; bedtime-friendly tone."
+
+  - title: "Moni der Geißbub"
+    author: "Johanna Spyri"
+    filename: "Moni_der_Geissbub_Spyri.epub"
+    url: https://www.gutenberg.org/ebooks/9860.epub3.images
+    gutenberg_id: 9860
+    note: "Short Swiss mountain story; gentle and reassuring."
+
+  - title: "Heidis Lehr- und Wanderjahre"
+    author: "Johanna Spyri"
+    filename: "Heidis_Lehr_und_Wanderjahre_Spyri.epub"
+    url: https://www.gutenberg.org/ebooks/7500.epub3.images
+    gutenberg_id: 7500
+    note: "Heidi (German original); longer book, great for ongoing bedtime reading."
+
+  - title: "Heidi kann brauchen, was es gelernt hat"
+    author: "Johanna Spyri"
+    filename: "Heidi_kann_brauchen_was_es_gelernt_hat_Spyri.epub"
+    url: https://www.gutenberg.org/ebooks/7512.epub3.images
+    gutenberg_id: 7512
+    note: "Heidi sequel; steady, comforting chapters for bedtime."
+
+  - title: "Norwegische Volksmährchen vol. 1"
+    author: "Peter Christen Asbjørnsen; Jørgen Engebretsen Moe"
+    filename: "Norwegische_Volksmaerchen_1_Asbjoernsen_Moe.epub"
+    url: https://www.gutenberg.org/ebooks/29796.epub3.images
+    gutenberg_id: 29796
+    note: "Norwegian folk tales in German; fairy-tale variety for nightly picks."
+
+  - title: "Norwegische Volksmährchen vol. 2"
+    author: "Peter Christen Asbjørnsen; Jørgen Engebretsen Moe"
+    filename: "Norwegische_Volksmaerchen_2_Asbjoernsen_Moe.epub"
+    url: https://www.gutenberg.org/ebooks/30084.epub3.images
+    gutenberg_id: 30084
+    note: "More Norwegian tales; great for kids who like trolls and quests."
+
+  - title: "Eskimomärchen"
+    author: "Paul Sock"
+    filename: "Eskimomaerchen_Sock.epub"
+    url: https://www.gutenberg.org/ebooks/38972.epub3.images
+    gutenberg_id: 38972
+    note: "Inuit folk tales in German; fresh, short stories for bedtime variety."
+
+  - title: "Ehstnische Märchen. Zweite Hälfte"
+    author: "Friedrich Reinhold Kreutzwald; F. Löwe"
+    filename: "Ehstnische_Maerchen_Zweite_Haelfte_Kreutzwald_Loewe.epub"
+    url: https://www.gutenberg.org/ebooks/22516.epub3.images
+    gutenberg_id: 22516
+    note: "Estonian fairy tales in German; many self-contained bedtime stories."
+
+  - title: "Aladdin und die Wunderlampe"
+    author: "Ludwig Fulda"
+    filename: "Aladdin_und_die_Wunderlampe_Fulda.epub"
+    url: https://www.gutenberg.org/ebooks/14221.epub3.images
+    gutenberg_id: 14221
+    note: "A classic adventure retelling in German; fun, magical bedtime reading."
+
+  - title: "König Nußknacker und der arme Reinhold"
+    author: "Heinrich Hoffmann"
+    filename: "Koenig_Nussknacker_und_der_arme_Reinhold_Hoffmann.epub"
+    url: https://www.gutenberg.org/ebooks/32034.epub3.images
+    gutenberg_id: 32034
+    note: "Nutcracker-themed fairy tale; seasonal and cozy read-aloud."
