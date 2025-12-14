@@ -1,0 +1,129 @@
+category: English_Boys_16-18
+description: English literature for boys ages 16-18 - Classic literature and philosophy
+books:
+- title: Great Expectations
+  author: Charles Dickens
+  filename: Great_Expectations_Dickens.epub
+  url: https://www.gutenberg.org/ebooks/1400.epub3.images
+  gutenberg_id: 1400
+  note: Pip's journey from poverty to gentleman
+- title: David Copperfield
+  author: Charles Dickens
+  filename: David_Copperfield_Dickens.epub
+  url: https://www.gutenberg.org/ebooks/766.epub3.images
+  gutenberg_id: 766
+  note: Semi-autobiographical coming of age
+- title: A Tale of Two Cities
+  author: Charles Dickens
+  filename: Tale_Two_Cities_Dickens.epub
+  url: https://www.gutenberg.org/ebooks/98.epub3.images
+  gutenberg_id: 98
+  note: French Revolution drama
+- title: Oliver Twist
+  author: Charles Dickens
+  filename: Oliver_Twist_Dickens.epub
+  url: https://www.gutenberg.org/ebooks/730.epub3.images
+  gutenberg_id: 730
+  note: Orphan in Victorian London
+- title: The Great Gatsby
+  author: F. Scott Fitzgerald
+  filename: Great_Gatsby_Fitzgerald.epub
+  url: https://www.gutenberg.org/ebooks/64317.epub3.images
+  gutenberg_id: 64317
+  note: Jazz Age and the American Dream
+- title: Moby Dick
+  author: Herman Melville
+  filename: Moby_Dick_Melville.epub
+  url: https://www.gutenberg.org/ebooks/9147.epub3.images
+  gutenberg_id: 9147
+  note: Obsession and the sea
+- title: The Scarlet Letter
+  author: Nathaniel Hawthorne
+  filename: Scarlet_Letter_Hawthorne.epub
+  url: https://www.gutenberg.org/ebooks/25344.epub3.images
+  gutenberg_id: 25344
+  note: Sin and redemption in Puritan America
+- title: Crime and Punishment
+  author: Fyodor Dostoyevsky
+  filename: Crime_Punishment_Dostoyevsky.epub
+  url: https://www.gutenberg.org/ebooks/2554.epub3.images
+  gutenberg_id: 2554
+  note: Psychological study of guilt
+- title: The Brothers Karamazov
+  author: Fyodor Dostoyevsky
+  filename: Brothers_Karamazov_Dostoyevsky.epub
+  url: https://www.gutenberg.org/ebooks/28054.epub3.images
+  gutenberg_id: 28054
+  note: Faith, doubt, and family
+- title: War and Peace
+  author: Leo Tolstoy
+  filename: War_Peace_Tolstoy.epub
+  url: https://www.gutenberg.org/ebooks/2600.epub3.images
+  gutenberg_id: 2600
+  note: Epic of Napoleonic Russia
+- title: Anna Karenina
+  author: Leo Tolstoy
+  filename: Anna_Karenina_Tolstoy.epub
+  url: https://www.gutenberg.org/ebooks/1399.epub3.images
+  gutenberg_id: 1399
+  note: Love and society in Russia
+- title: The Republic
+  author: Plato
+  filename: Republic_Plato.epub
+  url: https://www.gutenberg.org/ebooks/1497.epub3.images
+  gutenberg_id: 1497
+  note: Foundation of Western philosophy
+- title: Meditations
+  author: Marcus Aurelius
+  filename: Meditations_Aurelius.epub
+  url: https://www.gutenberg.org/ebooks/2680.epub3.images
+  gutenberg_id: 2680
+  note: Stoic philosophy for life
+- title: Utopia
+  author: Thomas More
+  filename: Utopia_More.epub
+  url: https://www.gutenberg.org/ebooks/2130.epub3.images
+  gutenberg_id: 2130
+  note: Vision of ideal society
+- title: Heart of Darkness
+  author: Joseph Conrad
+  filename: Heart_Darkness_Conrad.epub
+  url: https://www.gutenberg.org/ebooks/219.epub3.images
+  gutenberg_id: 219
+  note: Journey into the Congo
+- title: Lord Jim
+  author: Joseph Conrad
+  filename: Lord_Jim_Conrad.epub
+  url: https://www.gutenberg.org/ebooks/5658.epub3.images
+  gutenberg_id: 5658
+  note: Honor and redemption at sea
+- title: The Red Badge of Courage
+  author: Stephen Crane
+  filename: Red_Badge_Courage_Crane.epub
+  url: https://www.gutenberg.org/ebooks/73.epub3.images
+  gutenberg_id: 73
+  note: Young soldier faces war
+- title: The Complete Works of William Shakespeare
+  author: William Shakespeare
+  filename: Complete_Shakespeare.epub
+  url: https://www.gutenberg.org/ebooks/100.epub3.images
+  gutenberg_id: 100
+  note: All plays and sonnets
+- title: Paradise Lost
+  author: John Milton
+  filename: Paradise_Lost_Milton.epub
+  url: https://www.gutenberg.org/ebooks/26.epub3.images
+  gutenberg_id: 26
+  note: Epic of the Fall of Man
+- title: The Iliad
+  author: Homer
+  filename: Iliad_Homer.epub
+  url: https://www.gutenberg.org/ebooks/6130.epub3.images
+  gutenberg_id: 6130
+  note: Epic of the Trojan War
+- title: The Odyssey
+  author: Homer
+  filename: Odyssey_Homer.epub
+  url: https://www.gutenberg.org/ebooks/3160.epub3.images
+  gutenberg_id: 3160
+  note: Odysseus's journey home

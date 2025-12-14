@@ -1,0 +1,117 @@
+category: English_Boys_10-12
+description: English literature for boys ages 10-12 - Adventure and exploration
+books:
+- title: Treasure Island
+  author: Robert Louis Stevenson
+  filename: Treasure_Island_Stevenson.epub
+  url: https://www.gutenberg.org/ebooks/120.epub3.images
+  gutenberg_id: 120
+  note: Pirates, treasure maps, and seafaring adventure
+- title: The Adventures of Tom Sawyer
+  author: Mark Twain
+  filename: Tom_Sawyer_Twain.epub
+  url: https://www.gutenberg.org/ebooks/26203.epub3.images
+  gutenberg_id: 26203
+  note: Classic American boyhood adventure
+- title: The Adventures of Huckleberry Finn
+  author: Mark Twain
+  filename: Huckleberry_Finn_Twain.epub
+  url: https://www.gutenberg.org/ebooks/7107.epub3.images
+  gutenberg_id: 7107
+  note: River adventure and friendship
+- title: Robinson Crusoe
+  author: Daniel Defoe
+  filename: Robinson_Crusoe_Defoe.epub
+  url: https://www.gutenberg.org/ebooks/21524.epub3.images
+  gutenberg_id: 21524
+  note: Survival on a deserted island
+- title: The Call of the Wild
+  author: Jack London
+  filename: Call_of_the_Wild_London.epub
+  url: https://www.gutenberg.org/ebooks/215.epub3.images
+  gutenberg_id: 215
+  note: Adventure in the Yukon wilderness
+- title: White Fang
+  author: Jack London
+  filename: White_Fang_London.epub
+  url: https://www.gutenberg.org/ebooks/910.epub3.images
+  gutenberg_id: 910
+  note: Wolf-dog's journey from wild to tame
+- title: Kidnapped
+  author: Robert Louis Stevenson
+  filename: Kidnapped_Stevenson.epub
+  url: https://www.gutenberg.org/ebooks/421.epub3.images
+  gutenberg_id: 421
+  note: Scottish adventure and intrigue
+- title: The Jungle Book
+  author: Rudyard Kipling
+  filename: Jungle_Book_Kipling.epub
+  url: https://www.gutenberg.org/ebooks/236.epub3.images
+  gutenberg_id: 236
+  note: Mowgli's adventures in the Indian jungle
+- title: The Second Jungle Book
+  author: Rudyard Kipling
+  filename: Second_Jungle_Book_Kipling.epub
+  url: https://www.gutenberg.org/ebooks/1937.epub3.images
+  gutenberg_id: 1937
+  note: More adventures with Mowgli
+- title: Kim
+  author: Rudyard Kipling
+  filename: Kim_Kipling.epub
+  url: https://www.gutenberg.org/ebooks/2226.epub3.images
+  gutenberg_id: 2226
+  note: Spy adventure in colonial India
+- title: Peter Pan
+  author: J. M. Barrie
+  filename: Peter_Pan_Barrie.epub
+  url: https://www.gutenberg.org/ebooks/22984.epub3.images
+  gutenberg_id: 22984
+  note: The boy who never grew up
+- title: The Wind in the Willows
+  author: Kenneth Grahame
+  filename: Wind_in_the_Willows_Grahame.epub
+  url: https://www.gutenberg.org/ebooks/289.epub3.images
+  gutenberg_id: 289
+  note: Classic animal adventure
+- title: Twenty Thousand Leagues Under the Sea
+  author: Jules Verne
+  filename: 20000_Leagues_Verne.epub
+  url: https://www.gutenberg.org/ebooks/164.epub3.images
+  gutenberg_id: 164
+  note: Underwater adventure with Captain Nemo
+- title: Around the World in Eighty Days
+  author: Jules Verne
+  filename: Around_the_World_Verne.epub
+  url: https://www.gutenberg.org/ebooks/103.epub3.images
+  gutenberg_id: 103
+  note: Global race against time
+- title: Journey to the Center of the Earth
+  author: Jules Verne
+  filename: Journey_Center_Earth_Verne.epub
+  url: https://www.gutenberg.org/ebooks/19513.epub3.images
+  gutenberg_id: 19513
+  note: Underground exploration adventure
+- title: The Time Machine
+  author: H. G. Wells
+  filename: Time_Machine_Wells.epub
+  url: https://www.gutenberg.org/ebooks/35.epub3.images
+  gutenberg_id: 35
+  note: Classic time travel story
+- title: Ivanhoe
+  author: Walter Scott
+  filename: Ivanhoe_Scott.epub
+  url: https://www.gutenberg.org/ebooks/82.epub3.images
+  gutenberg_id: 82
+  note: Medieval knights and adventure
+- title: The Prince and the Pauper
+  author: Mark Twain
+  filename: Prince_and_Pauper_Twain.epub
+  url: https://www.gutenberg.org/ebooks/1837.epub3.images
+  gutenberg_id: 1837
+  note: Two boys switch places in Tudor England
+- title: Black Beauty
+  author: Anna Sewell
+  filename: Black_Beauty_Sewell.epub
+  url: https://www.gutenberg.org/ebooks/271.epub3.images
+  gutenberg_id: 271
+  note: Life story of a horse

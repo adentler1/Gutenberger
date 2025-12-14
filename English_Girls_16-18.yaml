@@ -1,0 +1,141 @@
+category: English_Girls_16-18
+description: English literature for girls ages 16-18 - Classic literature and women's voices
+books:
+- title: Pride and Prejudice
+  author: Jane Austen
+  filename: Pride_Prejudice_Austen.epub
+  url: https://www.gutenberg.org/ebooks/1342.epub3.images
+  gutenberg_id: 1342
+  note: Elizabeth Bennet's wit and independence
+- title: Emma
+  author: Jane Austen
+  filename: Emma_Austen.epub
+  url: https://www.gutenberg.org/ebooks/158.epub3.images
+  gutenberg_id: 158
+  note: Matchmaking and self-discovery
+- title: Mansfield Park
+  author: Jane Austen
+  filename: Mansfield_Park_Austen.epub
+  url: https://www.gutenberg.org/ebooks/22962.epub3.images
+  gutenberg_id: 22962
+  note: Fanny Price's quiet strength
+- title: Persuasion
+  author: Jane Austen
+  filename: Persuasion_Austen.epub
+  url: https://www.gutenberg.org/ebooks/105.epub3.images
+  gutenberg_id: 105
+  note: Second chances at love
+- title: Jane Eyre
+  author: Charlotte Brontë
+  filename: Jane_Eyre_Bronte.epub
+  url: https://www.gutenberg.org/ebooks/23077.epub3.images
+  gutenberg_id: 23077
+  note: Independent spirit and moral strength
+- title: Wuthering Heights
+  author: Emily Brontë
+  filename: Wuthering_Heights_Bronte.epub
+  url: https://www.gutenberg.org/ebooks/768.epub3.images
+  gutenberg_id: 768
+  note: Passionate and haunting
+- title: Villette
+  author: Charlotte Brontë
+  filename: Villette_Bronte.epub
+  url: https://www.gutenberg.org/ebooks/21181.epub3.images
+  gutenberg_id: 21181
+  note: Lucy Snowe's journey abroad
+- title: The Tenant of Wildfell Hall
+  author: Anne Brontë
+  filename: Tenant_Wildfell_Bronte.epub
+  url: https://www.gutenberg.org/ebooks/969.epub3.images
+  gutenberg_id: 969
+  note: Bold exploration of marriage
+- title: Middlemarch
+  author: George Eliot
+  filename: Middlemarch_Eliot.epub
+  url: https://www.gutenberg.org/ebooks/145.epub3.images
+  gutenberg_id: 145
+  note: Provincial life and idealism
+- title: The Mill on the Floss
+  author: George Eliot
+  filename: Mill_Floss_Eliot.epub
+  url: https://www.gutenberg.org/ebooks/6688.epub3.images
+  gutenberg_id: 6688
+  note: Maggie Tulliver's struggles
+- title: Silas Marner
+  author: George Eliot
+  filename: Silas_Marner_Eliot.epub
+  url: https://www.gutenberg.org/ebooks/550.epub3.images
+  gutenberg_id: 550
+  note: Redemption and found family
+- title: Tess of the d'Urbervilles
+  author: Thomas Hardy
+  filename: Tess_dUrbervilles_Hardy.epub
+  url: https://www.gutenberg.org/ebooks/110.epub3.images
+  gutenberg_id: 110
+  note: Tragedy of a pure woman
+- title: Far from the Madding Crowd
+  author: Thomas Hardy
+  filename: Far_Madding_Crowd_Hardy.epub
+  url: https://www.gutenberg.org/ebooks/107.epub3.images
+  gutenberg_id: 107
+  note: Independent Bathsheba Everdene
+- title: The Portrait of a Lady
+  author: Henry James
+  filename: Portrait_Lady_James.epub
+  url: https://www.gutenberg.org/ebooks/2833.epub3.images
+  gutenberg_id: 2833
+  note: Isabel Archer's choices
+- title: The Age of Innocence
+  author: Edith Wharton
+  filename: Age_Innocence_Wharton.epub
+  url: https://www.gutenberg.org/ebooks/541.epub3.images
+  gutenberg_id: 541
+  note: Love and society in old New York
+- title: The House of Mirth
+  author: Edith Wharton
+  filename: House_Mirth_Wharton.epub
+  url: https://www.gutenberg.org/ebooks/284.epub3.images
+  gutenberg_id: 284
+  note: Lily Bart's tragic descent
+- title: Anna Karenina
+  author: Leo Tolstoy
+  filename: Anna_Karenina_Tolstoy.epub
+  url: https://www.gutenberg.org/ebooks/1399.epub3.images
+  gutenberg_id: 1399
+  note: Passion and society
+- title: Crime and Punishment
+  author: Fyodor Dostoyevsky
+  filename: Crime_Punishment_Dostoyevsky.epub
+  url: https://www.gutenberg.org/ebooks/2554.epub3.images
+  gutenberg_id: 2554
+  note: Psychological depth
+- title: A Vindication of the Rights of Woman
+  author: Mary Wollstonecraft
+  filename: Rights_Woman_Wollstonecraft.epub
+  url: https://www.gutenberg.org/ebooks/26590.epub3.images
+  gutenberg_id: 26590
+  note: Early feminist philosophy
+- title: A Room of One's Own
+  author: Virginia Woolf
+  filename: Room_Ones_Own_Woolf.epub
+  url: ''
+  gutenberg_id: 0
+  note: Women and fiction
+- title: Poems by Emily Dickinson
+  author: Emily Dickinson
+  filename: Poems_Dickinson.epub
+  url: https://www.gutenberg.org/ebooks/12242.epub3.images
+  gutenberg_id: 12242
+  note: Innovative American poetry
+- title: Sonnets from the Portuguese
+  author: Elizabeth Barrett Browning
+  filename: Sonnets_Portuguese_Browning.epub
+  url: https://www.gutenberg.org/ebooks/23079.epub3.images
+  gutenberg_id: 23079
+  note: Beautiful love sonnets
+- title: Aurora Leigh
+  author: Elizabeth Barrett Browning
+  filename: Aurora_Leigh_Browning.epub
+  url: ''
+  gutenberg_id: 0
+  note: Novel in verse about woman artist

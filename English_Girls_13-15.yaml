@@ -1,0 +1,129 @@
+category: English_Girls_13-15
+description: English literature for girls ages 13-15 - Romance and strong heroines
+books:
+- title: Pride and Prejudice
+  author: Jane Austen
+  filename: Pride_Prejudice_Austen.epub
+  url: https://www.gutenberg.org/ebooks/1342.epub3.images
+  gutenberg_id: 1342
+  note: Elizabeth Bennet and Mr. Darcy
+- title: Sense and Sensibility
+  author: Jane Austen
+  filename: Sense_Sensibility_Austen.epub
+  url: https://www.gutenberg.org/ebooks/161.epub3.images
+  gutenberg_id: 161
+  note: Two sisters navigate love and society
+- title: Emma
+  author: Jane Austen
+  filename: Emma_Austen.epub
+  url: https://www.gutenberg.org/ebooks/158.epub3.images
+  gutenberg_id: 158
+  note: Matchmaking heroine learns about love
+- title: Persuasion
+  author: Jane Austen
+  filename: Persuasion_Austen.epub
+  url: https://www.gutenberg.org/ebooks/105.epub3.images
+  gutenberg_id: 105
+  note: Second chances at love
+- title: Northanger Abbey
+  author: Jane Austen
+  filename: Northanger_Abbey_Austen.epub
+  url: https://www.gutenberg.org/ebooks/121.epub3.images
+  gutenberg_id: 121
+  note: Gothic novel parody with charming heroine
+- title: Jane Eyre
+  author: Charlotte Brontë
+  filename: Jane_Eyre_Bronte.epub
+  url: https://www.gutenberg.org/ebooks/23077.epub3.images
+  gutenberg_id: 23077
+  note: Independent governess finds love
+- title: Wuthering Heights
+  author: Emily Brontë
+  filename: Wuthering_Heights_Bronte.epub
+  url: https://www.gutenberg.org/ebooks/768.epub3.images
+  gutenberg_id: 768
+  note: Passionate and haunting love story
+- title: Little Women
+  author: Louisa May Alcott
+  filename: Little_Women_Alcott.epub
+  url: https://www.gutenberg.org/ebooks/514.epub3.images
+  gutenberg_id: 514
+  note: Four sisters growing up
+- title: Good Wives
+  author: Louisa May Alcott
+  filename: Good_Wives_Alcott.epub
+  url: ''
+  gutenberg_id: 0
+  note: Continuation of Little Women
+- title: The Scarlet Letter
+  author: Nathaniel Hawthorne
+  filename: Scarlet_Letter_Hawthorne.epub
+  url: https://www.gutenberg.org/ebooks/25344.epub3.images
+  gutenberg_id: 25344
+  note: Hester Prynne's strength and dignity
+- title: Frankenstein
+  author: Mary Shelley
+  filename: Frankenstein_Shelley.epub
+  url: https://www.gutenberg.org/ebooks/6542.epub3.images
+  gutenberg_id: 6542
+  note: Written by a teenage girl - classic horror
+- title: The Mysteries of Udolpho
+  author: Ann Radcliffe
+  filename: Mysteries_Udolpho_Radcliffe.epub
+  url: https://www.gutenberg.org/ebooks/3268.epub3.images
+  gutenberg_id: 3268
+  note: Classic Gothic romance
+- title: Dracula
+  author: Bram Stoker
+  filename: Dracula_Stoker.epub
+  url: https://www.gutenberg.org/ebooks/345.epub3.images
+  gutenberg_id: 345
+  note: Classic vampire tale with Mina Harker
+- title: The Secret Garden
+  author: Frances Hodgson Burnett
+  filename: Secret_Garden_Burnett.epub
+  url: https://www.gutenberg.org/ebooks/17396.epub3.images
+  gutenberg_id: 17396
+  note: Mary's transformation and growth
+- title: A Little Princess
+  author: Frances Hodgson Burnett
+  filename: Little_Princess_Burnett.epub
+  url: https://www.gutenberg.org/ebooks/23711.epub3.images
+  gutenberg_id: 23711
+  note: Sara's resilience through adversity
+- title: Anne of Green Gables
+  author: L. M. Montgomery
+  filename: Anne_Green_Gables_Montgomery.epub
+  url: https://www.gutenberg.org/ebooks/45.epub3.images
+  gutenberg_id: 45
+  note: Anne Shirley's spirit and imagination
+- title: Anne of Avonlea
+  author: L. M. Montgomery
+  filename: Anne_Avonlea_Montgomery.epub
+  url: https://www.gutenberg.org/ebooks/19575.epub3.images
+  gutenberg_id: 19575
+  note: Anne as a young teacher
+- title: Anne of the Island
+  author: L. M. Montgomery
+  filename: Anne_Island_Montgomery.epub
+  url: https://www.gutenberg.org/ebooks/20265.epub3.images
+  gutenberg_id: 20265
+  note: Anne at college
+- title: North and South
+  author: Elizabeth Gaskell
+  filename: North_South_Gaskell.epub
+  url: https://www.gutenberg.org/ebooks/4276.epub3.images
+  gutenberg_id: 4276
+  note: Margaret Hale in industrial England
+- title: Cranford
+  author: Elizabeth Gaskell
+  filename: Cranford_Gaskell.epub
+  url: https://www.gutenberg.org/ebooks/394.epub3.images
+  gutenberg_id: 394
+  note: Gentle satire of small-town ladies
+- title: Poems by Emily Dickinson
+  author: Emily Dickinson
+  filename: Poems_Dickinson.epub
+  url: https://www.gutenberg.org/ebooks/12242.epub3.images
+  gutenberg_id: 12242
+  note: Pioneering American poetess

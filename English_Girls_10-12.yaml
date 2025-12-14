@@ -1,0 +1,135 @@
+category: English_Girls_10-12
+description: English literature for girls ages 10-12 - Strong heroines and friendship
+books:
+- title: Alice's Adventures in Wonderland
+  author: Lewis Carroll
+  filename: Alice_Wonderland_Carroll.epub
+  url: https://www.gutenberg.org/ebooks/11.epub3.images
+  gutenberg_id: 11
+  note: Curious Alice in a fantastical world
+- title: Through the Looking-Glass
+  author: Lewis Carroll
+  filename: Looking_Glass_Carroll.epub
+  url: https://www.gutenberg.org/ebooks/12.epub3.images
+  gutenberg_id: 12
+  note: Alice's continued adventures
+- title: Anne of Green Gables
+  author: L. M. Montgomery
+  filename: Anne_Green_Gables_Montgomery.epub
+  url: https://www.gutenberg.org/ebooks/45.epub3.images
+  gutenberg_id: 45
+  note: Imaginative orphan finds a home
+- title: Anne of Avonlea
+  author: L. M. Montgomery
+  filename: Anne_Avonlea_Montgomery.epub
+  url: https://www.gutenberg.org/ebooks/19575.epub3.images
+  gutenberg_id: 19575
+  note: Anne grows up
+- title: Anne of the Island
+  author: L. M. Montgomery
+  filename: Anne_Island_Montgomery.epub
+  url: https://www.gutenberg.org/ebooks/20265.epub3.images
+  gutenberg_id: 20265
+  note: Anne at college
+- title: Little Women
+  author: Louisa May Alcott
+  filename: Little_Women_Alcott.epub
+  url: https://www.gutenberg.org/ebooks/514.epub3.images
+  gutenberg_id: 514
+  note: Four sisters growing up during Civil War
+- title: Little Men
+  author: Louisa May Alcott
+  filename: Little_Men_Alcott.epub
+  url: https://www.gutenberg.org/ebooks/22787.epub3.images
+  gutenberg_id: 22787
+  note: Jo's school for boys
+- title: Jo's Boys
+  author: Louisa May Alcott
+  filename: Jos_Boys_Alcott.epub
+  url: ''
+  gutenberg_id: 0
+  note: Conclusion to the March family saga
+- title: The Secret Garden
+  author: Frances Hodgson Burnett
+  filename: Secret_Garden_Burnett.epub
+  url: https://www.gutenberg.org/ebooks/17396.epub3.images
+  gutenberg_id: 17396
+  note: Transformation through nature and friendship
+- title: A Little Princess
+  author: Frances Hodgson Burnett
+  filename: Little_Princess_Burnett.epub
+  url: https://www.gutenberg.org/ebooks/146.epub3.images
+  gutenberg_id: 146
+  note: Sara Crewe's courage through hardship
+- title: The Little Princess
+  author: Frances Hodgson Burnett
+  filename: Sara_Crewe_Burnett.epub
+  url: https://www.gutenberg.org/ebooks/23711.epub3.images
+  gutenberg_id: 23711
+  note: Original shorter version
+- title: Heidi
+  author: Johanna Spyri
+  filename: Heidi_Spyri.epub
+  url: https://www.gutenberg.org/ebooks/20271.epub3.images
+  gutenberg_id: 20271
+  note: Swiss mountain girl's adventures
+- title: Pollyanna
+  author: Eleanor H. Porter
+  filename: Pollyanna_Porter.epub
+  url: https://www.gutenberg.org/ebooks/1450.epub3.images
+  gutenberg_id: 1450
+  note: The 'glad game' and optimism
+- title: Rebecca of Sunnybrook Farm
+  author: Kate Douglas Wiggin
+  filename: Rebecca_Sunnybrook_Wiggin.epub
+  url: https://www.gutenberg.org/ebooks/498.epub3.images
+  gutenberg_id: 498
+  note: Spirited girl sent to live with aunts
+- title: Peter Pan
+  author: J. M. Barrie
+  filename: Peter_Pan_Barrie.epub
+  url: https://www.gutenberg.org/ebooks/22984.epub3.images
+  gutenberg_id: 22984
+  note: Wendy's adventures in Neverland
+- title: The Blue Fairy Book
+  author: Andrew Lang
+  filename: Blue_Fairy_Book_Lang.epub
+  url: https://www.gutenberg.org/ebooks/503.epub3.images
+  gutenberg_id: 503
+  note: Classic fairy tale collection
+- title: The Red Fairy Book
+  author: Andrew Lang
+  filename: Red_Fairy_Book_Lang.epub
+  url: ''
+  gutenberg_id: 0
+  note: More fairy tales
+- title: The Princess and the Goblin
+  author: George MacDonald
+  filename: Princess_Goblin_MacDonald.epub
+  url: https://www.gutenberg.org/ebooks/708.epub3.images
+  gutenberg_id: 708
+  note: Princess Irene's magical adventure
+- title: At the Back of the North Wind
+  author: George MacDonald
+  filename: North_Wind_MacDonald.epub
+  url: https://www.gutenberg.org/ebooks/28737.epub3.images
+  gutenberg_id: 28737
+  note: Fantasy about boy and the North Wind
+- title: Black Beauty
+  author: Anna Sewell
+  filename: Black_Beauty_Sewell.epub
+  url: https://www.gutenberg.org/ebooks/271.epub3.images
+  gutenberg_id: 271
+  note: Life story of a horse
+- title: The Wind in the Willows
+  author: Kenneth Grahame
+  filename: Wind_in_the_Willows_Grahame.epub
+  url: https://www.gutenberg.org/ebooks/289.epub3.images
+  gutenberg_id: 289
+  note: Friendship among animal characters
+- title: The Jungle Book
+  author: Rudyard Kipling
+  filename: Jungle_Book_Kipling.epub
+  url: https://www.gutenberg.org/ebooks/236.epub3.images
+  gutenberg_id: 236
+  note: Mowgli's adventures in the jungle

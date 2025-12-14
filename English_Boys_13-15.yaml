@@ -1,0 +1,123 @@
+category: English_Boys_13-15
+description: English literature for boys ages 13-15 - Adventure and science fiction
+books:
+- title: The Count of Monte Cristo
+  author: Alexandre Dumas
+  filename: Count_Monte_Cristo_Dumas.epub
+  url: https://www.gutenberg.org/ebooks/1184.epub3.images
+  gutenberg_id: 1184
+  note: Epic tale of revenge and redemption
+- title: The Three Musketeers
+  author: Alexandre Dumas
+  filename: Three_Musketeers_Dumas.epub
+  url: https://www.gutenberg.org/ebooks/1257.epub3.images
+  gutenberg_id: 1257
+  note: Swashbuckling adventure in France
+- title: The Man in the Iron Mask
+  author: Alexandre Dumas
+  filename: Man_Iron_Mask_Dumas.epub
+  url: https://www.gutenberg.org/ebooks/2759.epub3.images
+  gutenberg_id: 2759
+  note: Musketeer adventure continues
+- title: The Last of the Mohicans
+  author: James Fenimore Cooper
+  filename: Last_Mohicans_Cooper.epub
+  url: https://www.gutenberg.org/ebooks/940.epub3.images
+  gutenberg_id: 940
+  note: Frontier adventure during French-Indian War
+- title: Moby Dick
+  author: Herman Melville
+  filename: Moby_Dick_Melville.epub
+  url: https://www.gutenberg.org/ebooks/9147.epub3.images
+  gutenberg_id: 9147
+  note: Epic whale hunt and obsession
+- title: The Sea-Wolf
+  author: Jack London
+  filename: Sea_Wolf_London.epub
+  url: https://www.gutenberg.org/ebooks/1074.epub3.images
+  gutenberg_id: 1074
+  note: Survival at sea with brutal captain
+- title: The War of the Worlds
+  author: H. G. Wells
+  filename: War_of_the_Worlds_Wells.epub
+  url: https://www.gutenberg.org/ebooks/36.epub3.images
+  gutenberg_id: 36
+  note: Martian invasion of Earth
+- title: The Invisible Man
+  author: H. G. Wells
+  filename: Invisible_Man_Wells.epub
+  url: https://www.gutenberg.org/ebooks/5230.epub3.images
+  gutenberg_id: 5230
+  note: Science gone wrong
+- title: The Island of Doctor Moreau
+  author: H. G. Wells
+  filename: Dr_Moreau_Wells.epub
+  url: https://www.gutenberg.org/ebooks/159.epub3.images
+  gutenberg_id: 159
+  note: Mad scientist creates beast-men
+- title: Frankenstein
+  author: Mary Shelley
+  filename: Frankenstein_Shelley.epub
+  url: https://www.gutenberg.org/ebooks/6542.epub3.images
+  gutenberg_id: 6542
+  note: The original science fiction horror
+- title: Dracula
+  author: Bram Stoker
+  filename: Dracula_Stoker.epub
+  url: https://www.gutenberg.org/ebooks/345.epub3.images
+  gutenberg_id: 345
+  note: Classic vampire horror
+- title: The Strange Case of Dr Jekyll and Mr Hyde
+  author: Robert Louis Stevenson
+  filename: Jekyll_Hyde_Stevenson.epub
+  url: https://www.gutenberg.org/ebooks/43.epub3.images
+  gutenberg_id: 43
+  note: Duality of human nature
+- title: The Adventures of Sherlock Holmes
+  author: Arthur Conan Doyle
+  filename: Sherlock_Holmes_Doyle.epub
+  url: https://www.gutenberg.org/ebooks/1661.epub3.images
+  gutenberg_id: 1661
+  note: Classic detective stories
+- title: The Hound of the Baskervilles
+  author: Arthur Conan Doyle
+  filename: Hound_Baskervilles_Doyle.epub
+  url: https://www.gutenberg.org/ebooks/2852.epub3.images
+  gutenberg_id: 2852
+  note: Sherlock Holmes' greatest case
+- title: A Study in Scarlet
+  author: Arthur Conan Doyle
+  filename: Study_Scarlet_Doyle.epub
+  url: https://www.gutenberg.org/ebooks/244.epub3.images
+  gutenberg_id: 244
+  note: First Sherlock Holmes novel
+- title: The Mysterious Island
+  author: Jules Verne
+  filename: Mysterious_Island_Verne.epub
+  url: https://www.gutenberg.org/ebooks/1268.epub3.images
+  gutenberg_id: 1268
+  note: Castaways use science to survive
+- title: From the Earth to the Moon
+  author: Jules Verne
+  filename: Earth_to_Moon_Verne.epub
+  url: https://www.gutenberg.org/ebooks/28918.epub3.images
+  gutenberg_id: 28918
+  note: Space travel adventure
+- title: The Lost World
+  author: Arthur Conan Doyle
+  filename: Lost_World_Doyle.epub
+  url: https://www.gutenberg.org/ebooks/139.epub3.images
+  gutenberg_id: 139
+  note: Dinosaurs on a South American plateau
+- title: King Solomon's Mines
+  author: H. Rider Haggard
+  filename: King_Solomons_Mines_Haggard.epub
+  url: https://www.gutenberg.org/ebooks/21438.epub3.images
+  gutenberg_id: 21438
+  note: African adventure and treasure
+- title: She
+  author: H. Rider Haggard
+  filename: She_Haggard.epub
+  url: https://www.gutenberg.org/ebooks/3155.epub3.images
+  gutenberg_id: 3155
+  note: Adventure and immortal queen
