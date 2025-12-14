@@ -1,0 +1,118 @@
+category: 12-14 Jahre
+description: Deutsche Literatur für Schüler im Alter von 12-14 Jahren
+books:
+- title: Effi Briest
+  author: Theodor Fontane
+  filename: Effi_Briest_Fontane.epub
+  url: https://www.gutenberg.org/ebooks/5323.epub3.images
+  gutenberg_id: 5323
+- title: Unterm Rad
+  author: Hermann Hesse
+  filename: Unterm_Rad_Hesse.epub
+  url: https://www.gutenberg.org/ebooks/49908.epub3.images
+  gutenberg_id: 49908
+- title: Die Leiden des jungen Werther
+  author: Johann Wolfgang von Goethe
+  filename: Die_Leiden_des_jungen_Werther_Goethe.epub
+  url: ''
+  gutenberg_id: 0
+- title: Iphigenie auf Tauris
+  author: Johann Wolfgang von Goethe
+  filename: Iphigenie_auf_Tauris_Goethe.epub
+  url: https://www.gutenberg.org/ebooks/2054.epub3.images
+  gutenberg_id: 2054
+- title: Wilhelm Tell
+  author: Friedrich Schiller
+  filename: Wilhelm_Tell_Schiller.epub
+  url: https://www.gutenberg.org/ebooks/77182.epub3.images
+  gutenberg_id: 77182
+- title: Kabale und Liebe
+  author: Friedrich Schiller
+  filename: Kabale_und_Liebe_Schiller.epub
+  url: https://www.gutenberg.org/ebooks/6498.epub3.images
+  gutenberg_id: 6498
+- title: Ein Landarzt (enthält 'Vor dem Gesetz')
+  author: Franz Kafka
+  filename: Ein_Landarzt_Kafka.epub
+  url: https://www.gutenberg.org/ebooks/21989.epub3.images
+  gutenberg_id: 21989
+- title: Das Urteil
+  author: Franz Kafka
+  filename: Das_Urteil_Kafka.epub
+  url: https://www.gutenberg.org/ebooks/21593.epub3.images
+  gutenberg_id: 21593
+- title: Der Schimmelreiter
+  author: Theodor Storm
+  filename: Der_Schimmelreiter_Storm.epub
+  url: ''
+  gutenberg_id: 0
+- title: Kleider machen Leute
+  author: Gottfried Keller
+  filename: Kleider_machen_Leute_Keller.epub
+  url: ''
+  gutenberg_id: 0
+- title: Bergkristall
+  author: Adalbert Stifter
+  filename: Bergkristall_Stifter.epub
+  url: ''
+  gutenberg_id: 0
+- title: Nachtstücke (enthält 'Der Sandmann')
+  author: E.T.A. Hoffmann
+  filename: Nachtstuecke_Hoffmann.epub
+  url: ''
+  gutenberg_id: 0
+- title: Klein Zaches, genannt Zinnober
+  author: E.T.A. Hoffmann
+  filename: Klein_Zaches_Hoffmann.epub
+  url: ''
+  gutenberg_id: 0
+- title: Märchen-Almanach (enthält 'Das kalte Herz', 'Zwerg Nase')
+  author: Wilhelm Hauff
+  filename: Maerchen_Almanach_Hauff.epub
+  url: ''
+  gutenberg_id: 0
+- title: Märchen der Gebrüder Grimm 1
+  author: Brüder Grimm
+  filename: Maerchen_Grimm_1.epub
+  url: https://www.gutenberg.org/ebooks/20050.epub3.images
+  gutenberg_id: 20050
+- title: Märchen der Gebrüder Grimm 2
+  author: Brüder Grimm
+  filename: Maerchen_Grimm_2.epub
+  url: https://www.gutenberg.org/ebooks/20051.epub3.images
+  gutenberg_id: 20051
+- title: Die schwarze Spinne
+  author: Jeremias Gotthelf
+  filename: Die_schwarze_Spinne_Gotthelf.epub
+  url: ''
+  gutenberg_id: 0
+- title: Die Judenbuche
+  author: Annette von Droste-Hülshoff
+  filename: Die_Judenbuche_Droste_Huelshoff.epub
+  url: https://www.gutenberg.org/ebooks/45798.epub3.images
+  gutenberg_id: 45798
+- title: Erzählungen (Marquise von O, Erdbeben in Chili, etc.)
+  author: Heinrich von Kleist
+  filename: Erzaehlungen_Kleist.epub
+  url: ''
+  gutenberg_id: 0
+- title: Buch der Lieder
+  author: Heinrich Heine
+  filename: Buch_der_Lieder_Heine.epub
+  url: https://www.gutenberg.org/ebooks/3498.epub3.images
+  gutenberg_id: 3498
+- title: Geschichten vom lieben Gott
+  author: Rainer Maria Rilke
+  filename: Geschichten_vom_lieben_Gott_Rilke.epub
+  url: https://www.gutenberg.org/ebooks/38402.epub3.images
+  gutenberg_id: 38402
+- title: Jud Süß
+  author: Lion Feuchtwanger
+  filename: Jud_Suess_Feuchtwanger.epub
+  url: ''
+  gutenberg_id: 0
+- title: Winnetou I
+  author: Karl May
+  filename: Winnetou_I_May.epub
+  url: ''
+  gutenberg_id: 0
